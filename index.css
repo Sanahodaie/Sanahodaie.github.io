@@ -1,0 +1,405 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+#shopping-icon{
+    color: 	rgb(254, 248, 248);
+    
+}
+.body{
+    /* background-color: rgb(24, 24, 24); */
+    margin: 0;
+}
+
+
+#logoofheader{
+    width:8%;
+    border-radius: 75px;
+}
+#home ,
+#home1{
+    font-family: "Vazirmatn", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  transition: 0.15s linear;
+  color:whitesmoke ;
+  font-size: 1em;
+  }
+#home:hover ,
+#home1:hover{
+     color:rgb(93, 8, 11);
+     font-size: 1.1em;
+
+  }
+
+#home1{
+    font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.description{
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    transition: 0.15s linear;
+    color:black ;
+    
+}
+#picdiscription{
+    border-radius: 12rem;
+    background-color: hsl(349, 86%, 92%);
+}
+#header{
+    margin-bottom:3%;
+    background-color: hsla(130, 85%, 16%, 0.836);
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius:2rem ;
+
+
+}
+#description{
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color:black ;
+    font-size: 1.2em;
+    
+}
+#watchposter{
+    width:50%;
+    border-top-right-radius:3rem ;
+    border-top-left-radius:3rem ;
+
+}
+#centeral{
+    background-color: hsl(101, 93%, 11%);
+
+    /* height:26rem; */
+}
+#secret{
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(224, 224, 224) ;
+    font-size: 1em;
+}
+#welknownbrands{
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(77, 12, 12) ;
+    font-size: 1.1em;
+    cursor: pointer;
+    transition: 44s linear ;
+}
+#welknownbrands:hover{
+    font-size: 1.3em;
+    color:rgb(46, 6, 6) ;
+}
+#logos{
+    width: 66%;
+    cursor: pointer;
+    transition: 0.45s linear;
+}
+#logos:hover{
+    width: 77%;
+}
+.brandofsitename { 
+     font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: whitesmoke;
+} 
+
+
+.section-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin: 30px 0;
+}
+
+.section-title .line {
+    flex: 1;
+    height: 1px;
+    background: #ccc;
+}
+
+.section-title span {
+    font-size: 1.5em;
+}
+#rulexbrand{
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #452121;
+}
+#rolexfirstpic{
+    width:55% ;
+    transition: 0.78s linear;
+    cursor: pointer;
+}
+#rolexfirstpic:hover{
+    width: 63%;
+}
+#addtocarttxt{
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #6f0000;
+    color: whitesmoke;
+    transition: 0.45s linear;
+}
+#manswatchrolex{
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #6f0000;
+    cursor: pointer;
+}
+#addtocarttxt:hover{
+    background-color: whitesmoke;
+    color: #6f0000;
+
+}
+#addtocarttxt:active{
+        background-color: whitesmoke;
+    color: #6f0000;
+}
+#watchdescription{
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 3%;
+    cursor: pointer;
+}
+#pills-home-tab ,#pills-profile-tab{
+    font-family: "Vazirmatn", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+}
+#pills-tab #pills-home-tab ,
+#pills-tab #pills-profile-tab{
+    transition: 0.45s linear;
+    color: #941b1b;
+}
+#pills-tab #pills-home-tab:hover ,
+#pills-tab #pills-profile-tab:hover{
+    background-color: #6f0000;
+    color: whitesmoke;
+}
+.nav-pills .nav-link.active {
+    background-color: #6f0000 !important; /* رنگ زمینه تب فعال */
+    color: #fff !important;               /* رنگ متن تب فعال */
+  }
+  
+  #rolexfirstpic1{
+    width:45% ;
+    transition: 0.78s linear;
+    cursor: pointer;
+    border-radius: 5rem;
+    
+}
+#rolexfirstpic1:hover{
+    width:55% ;
+
+}
+
+
+
+#shoppinghozorie{
+    border-radius:1rem;
+}
+#posterr{
+    border-radius: 3rem;
+    margin-top: 3%;
+}
+#aboutsusandcustomer{
+    font-family: "Vazirmatn", sans-serif;
+    color: rgb(2, 61, 2);
+}
+.body{
+    font-family: "Vazirmatn", sans-serif;
+
+}
+#enemad{
+    width:65%;
+}
+.container1 {
+  position: relative;
+  width: 50%;
+}
+
+.image1 {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width:75%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #d8ffc8;
+}
+
+.container1:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: rgb(2, 45, 1);
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.accordion-button:focus {
+  box-shadow: none !important; 
+}
+.accordion-button:not(.collapsed) {
+  background-color: transparent !important;
+}
+#question{
+    font-family:"Vazirmatn", sans-serif ;
+}
+#finalphotos{
+    width: 15%;
+}
+#zarinpaypal{
+    width:13%;
+}
+.container1 {
+  position: relative;
+  width: 50%;
+}
+
+.image1 {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay1 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width:17%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #d8ffc8;
+}
+
+.container1:hover .overlay1 {
+  opacity: 1;
+}
+
+.text {
+  color: rgb(2, 45, 1);
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#etehadiyeh{
+    width: 22%;
+}
+#experince{
+    width:20%;
+}
+#person1{
+    border-radius:100rem;
+    width:14%;
+}
+@media (min-width: 144px) and (max-width: 771px) {
+  #pictures_Of_name_of_product .row ,
+  #welknownbrands .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  #pictures_Of_name_of_product .col-md-2 ,
+  #welknownbrands .col-md-2 {
+    width: 32%; /* تقریباً یک سوم عرض */
+    margin-bottom: 15px;
+  }
+  
+  #pictures_Of_name_of_product .img-fluid ,
+  #welknownbrands .rounded-circle {
+    width: 100%;
+    height: auto;
+  }
+}
+@media (min-width: 144px) and (max-width: 771px) {
+  /* تنظیمات تب‌ها */
+  #pills-tab {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    white-space: nowrap;
+    justify-content: flex-start;
+    padding-bottom: 10px;
+  }
+  
+  #pills-tab .nav-item {
+    flex: 0 0 auto;
+    margin: 0 5px;
+  }
+  
+  /* تنظیمات محصولات */
+  .tab-content .row {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    margin: 0 -5px;
+    padding-bottom: 15px;
+  }
+  
+  .tab-content .col-md-3 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 0 5px;
+    scroll-snap-align: start;
+  }
+  
+  /* بهبود ظاهر دکمه‌ها */
+  #addtocarttxt {
+    font-size: 0.8rem;
+    padding: 5px 10px;
+  }
+  
+  /* تنظیمات تصاویر */
+  #rolexfirstpic {
+    width: 100px;
+    height: 100px;
+  }
+  
+  /* مخفی کردن اسکرولبار */
+  .tab-content .row::-webkit-scrollbar {
+    display: none;
+  }
+}
